@@ -419,6 +419,7 @@ header.sticky {
 /*------------------------------------Testimonial start--------------------------------------*/
 .testimonial {
     background: var(--spaceCadet-1000);
+    padding-block: 3rem;
 }
 
 .testimonial .testimonial__title {
